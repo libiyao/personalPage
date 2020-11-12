@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+  background-image: url("/src/25101.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
