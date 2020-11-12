@@ -1,12 +1,13 @@
 import React, {Component} from 'react';
 import styles from "./Header.module.css";
 import {Link, withRouter} from 'react-router-dom';
+import fencing from "../picture/fencing.jpg";
 
 class Header extends Component{
     render(){
         return (
             <div className={styles.container}>
-                <img className={styles.picture} src="/picture/fencing.jpg" alt="haha">
+                <img className={styles.picture} src={fencing} alt="haha">
                 </img>
                 <span className={styles.name}>
                     <Link to="/" className={styles.text2}>
