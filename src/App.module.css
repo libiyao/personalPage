@@ -3,5 +3,6 @@
   background-image: url("/src/picture/25101.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  height: 100vh;
+  background-position: center;
+  min-height: 100vh;
 }

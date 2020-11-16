@@ -4,6 +4,7 @@ import {Route, HashRouter, Switch} from 'react-router-dom';
 import Home from "./Page/Home";
 import Education from "./Page/Education";
 import Experience from "./Page/Experience";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (

@@ -1,9 +1,15 @@
 .container{
-    /* background-image: url("/src/picture/25101.jpg"); */
+    max-width: 100vw;
     height: 80px;
     display: flex;
+    flex-direction: column;
     padding: 10px;
-    align-items: center;
+}
+
+.navi{
+    width: 100%;
+    height: 100%;
+    display: flex;
 }
 
 .picture{
@@ -25,6 +31,19 @@
     border: 2px solid  #00008B;
 }
 
+.divider{
+    width: 100%;
+    border-top: 3px solid gray;
+}
+
+.verticalLine{
+    height: 60px;
+    border-left: 3px solid gray;
+    border-right: white;
+    border-top: white;
+    border-bottom: white;
+}
+
 .navigation {
     display: flex;
     position: relative;
@@ -36,7 +55,7 @@
 }
 
 .tag {
-    padding: 0 10%;
+    padding: 0 5%;
     font-size: 1.5rem;
     font-family: Courier New;
     /* text-decoration: none; */
