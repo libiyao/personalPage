@@ -1,9 +1,9 @@
 import React, { Component } from "react";
-
+import styles from "./Education.module.css";
 class Education extends Component{
     render(){
         return (
-            <div>
+            <div className={styles.container}>
                 This is my education
             </div>
         )

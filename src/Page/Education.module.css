@@ -1,0 +1,5 @@
+.container{
+    padding: 100px 20px;
+    display: flex;
+    min-width: 100vh;
+}
