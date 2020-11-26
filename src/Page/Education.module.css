@@ -1,5 +1,26 @@
 .container{
-    padding: 100px 20px;
+    padding: 100px 10%;
     display: flex;
     min-width: 100vh;
+}
+
+.picture{
+    height: 100%;
+    width: 100%;
+}
+
+.content{
+    text-align: left;
+}
+
+.bolded{
+    font-weight: bold;
+}
+
+.nonCenter{
+    text-align: center;
+}
+
+.list {
+    text-align: left;
 }

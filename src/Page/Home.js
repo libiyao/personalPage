@@ -18,9 +18,10 @@ class Home extends Component{
                         <div className={styles.pContainer}>
                             <h1 className={styles.header}>About me</h1>
                             <p className={styles.paragraph}>
-                                My name is Bill Li and I'm currently a student at the University of Washington studying applied and computational mathematical science - discrete math and algorithm.
-                                Beside applied math and pure math courses, I have taken many computer science courses which cover topics such as data structures & algorithm, database and quering langauges, and
-                                objected-oriented and functional programming langauges.
+                                My name is Biyao Li and I'm a student at the University of Washington studying applied and computational mathematical science - discrete math and algorithm.
+                                I'm really passionate about computer science and discrete math and I had several experiences in front/back-end development and mathematical research. 
+                                I'm currently looking for 2021 summer internship opportunity that is related to
+                                my interests listed below. Feel free to click on other tabs on the top to learn more about my past experiences and projects!
                             </p>
                             <Row>
                                 <Col md={7}>
@@ -35,9 +36,6 @@ class Home extends Component{
                                     </ul>
                                 </Col>
                             </Row>
-                            <p className={styles.paragraph}>
-                                Feel free to click on other tabs on top to learn more about my past experience and projects!
-                            </p>
                         </div>
                         
                     </Col>
