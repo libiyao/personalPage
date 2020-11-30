@@ -1,5 +1,22 @@
 .container{
-    padding: 100px 20px;
+    padding: 100px 10%;
     display: flex;
-    min-width: 100vh;
+    min-width: 100vw;
+    margin-left: 100px;
+}
+
+.timeLine{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin: 40px 0;
+}
+
+.timeLine::after{
+    background-color: #e17b77;
+    content: '';
+    position: absolute;
+    left: calc(50% - 2px);
+    width: 4px;
+    height: 100%;   
 }
