@@ -1,7 +1,6 @@
 .container{
     padding: 100px 10%;
     display: flex;
-    min-width: 100vw;
     margin-left: 100px;
 }
 
