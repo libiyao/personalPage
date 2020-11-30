@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/personalPage/static/css/main.d95507e9.chunk.css",
+    "main.css": "/personalPage/static/css/main.af1a47d2.chunk.css",
     "main.js": "/personalPage/static/js/main.2e0a98fc.chunk.js",
     "main.js.map": "/personalPage/static/js/main.2e0a98fc.chunk.js.map",
     "runtime-main.js": "/personalPage/static/js/runtime-main.3f798144.js",
@@ -12,7 +12,7 @@
     "static/js/3.7e524d63.chunk.js.map": "/personalPage/static/js/3.7e524d63.chunk.js.map",
     "index.html": "/personalPage/index.html",
     "static/css/2.1a02f21c.chunk.css.map": "/personalPage/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.d95507e9.chunk.css.map": "/personalPage/static/css/main.d95507e9.chunk.css.map",
+    "static/css/main.af1a47d2.chunk.css.map": "/personalPage/static/css/main.af1a47d2.chunk.css.map",
     "static/js/2.6c5d8302.chunk.js.LICENSE.txt": "/personalPage/static/js/2.6c5d8302.chunk.js.LICENSE.txt",
     "static/media/App.module.css": "/personalPage/static/media/25101.31263592.jpg",
     "static/media/bighead.8d680cba.jpg": "/personalPage/static/media/bighead.8d680cba.jpg",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.3f798144.js",
     "static/css/2.1a02f21c.chunk.css",
     "static/js/2.6c5d8302.chunk.js",
-    "static/css/main.d95507e9.chunk.css",
+    "static/css/main.af1a47d2.chunk.css",
     "static/js/main.2e0a98fc.chunk.js"
   ]
 }
