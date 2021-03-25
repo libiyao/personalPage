@@ -2,8 +2,8 @@ import React, { Component } from "react";
 import styles from "./Experience.module.css";
 import { Grid, Row, Col } from "react-bootstrap";
 import TimeLine from "./TimeLine.js";
-const experience = [{company: "Local & Yonder", startDate: "Sept, 2020", endDate: "Present", position: "Frontend developer", link: "https://portal.localandyonder.com/"},
-                    {company: "Washington Experimental Mathematics Laboratory", startDate: "Sept, 2020", endDate: "Dec, 2020", position: "Researcher", link: "http://www.wxml.math.washington.edu/?page_id=1173"},
+const experience = [{company: "Washington Experimental Mathematics Laboratory", startDate: "Sept, 2020", endDate: "Dec, 2020", position: "Researcher", link: "https://arxiv.org/abs/2012.04625"},
+{company: "Local & Yonder", startDate: "Aug, 2020", endDate: "No, 2020", position: "Frontend developer", link: "https://portal.localandyonder.com/"},
                     {company: "Yule technology", startDate: "July, 2020", endDate: "Sept, 2020", position: "Backend developer"},
 
 

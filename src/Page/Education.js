@@ -23,8 +23,8 @@ class Education extends Component{
                             <span className={styles.bolded}>Degree:</span><span> Bachelor of Science</span> <br/>
                             <span className={styles.bolded}>Major:</span><span> Applied and computational mathematical science - Discrete math and algorithm</span><br/>
                             <span className={styles.bolded}>Expected Graduation date: </span> <span>Winter 2021</span><br/>
-                            <span className={styles.bolded}>GPA: </span> <span>3.75</span><br/>
-                            <span className={styles.bolded}>Award: </span> <span>Dean's list for 7 consecutive quarters</span><br/>
+                            <span className={styles.bolded}>GPA: </span> <span>3.77</span><br/>
+                            <span className={styles.bolded}>Award: </span> <span>Dean's list for 8 consecutive quarters</span><br/>
                             <span className={styles.bolded}>Course taken: </span>
                             <Row>
                                 <Col md={4}>
