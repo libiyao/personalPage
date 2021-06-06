@@ -20,7 +20,7 @@ class Home extends Component{
                             <p className={styles.paragraph}>
                                 My name is Biyao Li and I'm a student at the University of Washington studying applied and computational mathematical science - discrete math and algorithm.
                                 I'm really passionate about computer science and discrete math and I had several experiences in front/back-end development and mathematical research. 
-                                I'm currently a data engineer summer intern at Docusign and I'm interested any relative intern/full-time opportunity for fall 2021 and beyond. Feel free to click on other tabs on the top to learn more about my past experiences and projects!
+                                I'm currently working at Docusign as a data engineering summer intern and I'm interested any related intern/full-time opportunity for fall 2021 and beyond. Feel free to click on other tabs on the top to learn more about my past experiences and projects!
                             </p>
                             <Row>
                                 <Col md={7}>
